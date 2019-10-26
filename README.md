@@ -9,4 +9,4 @@ Após acumular bastante dolares, não esqueça de somente realizar quando a sua 
 
 Link do YOUTUBE para o tutorial de instalação: https://www.youtube.com/watch?v=RUeq-ygh3dU
 
-Download somente do executável: https://github.com/Matheus-Grijo/BotStableArbitrageBINANCE/blob/master/bin/Debug.zip
+Download somente do executável: https://github.com/Matheus-Grijo/BotStableArbitrageBINANCE/blob/master/bin/Debug.zip?raw=true
