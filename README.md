@@ -1,5 +1,6 @@
 # BotStableArbitrageBINANCE
- Arbitrage USD Stablecoins Binance
+
+Arbitrage USD Stablecoins Binance
 
 Este BOT tem como premissa demonstrar a variação do mercado em STABLE coins pareadas no dolar, basicamente esse BOT faz uma "arbitragem", entre os pares TUSD/USDT comprando quando existe uma variação muito grande do seu valor original que é de 1$ e vendendo quando ele se aproxima do seu valor original de 1$.
 
@@ -9,4 +10,4 @@ Após acumular bastante dolares, não esqueça de somente realizar quando a sua 
 
 Link do YOUTUBE para o tutorial de instalação: https://www.youtube.com/watch?v=RUeq-ygh3dU
 
-Download somente do executável: https://github.com/Matheus-Grijo/BotStableArbitrageBINANCE/blob/master/bin/Debug.zip?raw=true
+Download somente do executável: https://github.com/MateusGrijo/BotStableArbitrageBINANCE/blob/master/bin/Debug.zip?raw=true
